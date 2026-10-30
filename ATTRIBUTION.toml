@@ -3539,7 +3539,7 @@ licence = "MIT OR Apache-2.0"
 licence_file = "assets/app-icon/LICENSE.txt"
 kind = "icon"
 usage = "Android launcher icon (mobile/android/app/src/main/AndroidManifest.xml)"
-sha256 = "99477cbb83c0152fbfa90a7b533e6e6fd4d6bfb64193cd74ae5e146a6b550e80"
+sha256 = "784ef3bd9f9e479cb2df22a0aee259a441a9c358390e646639c3a0ed79d41288"
 
 [[asset]]
 path = "mobile/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
@@ -3550,7 +3550,7 @@ licence = "MIT OR Apache-2.0"
 licence_file = "assets/app-icon/LICENSE.txt"
 kind = "icon"
 usage = "Android round launcher icon (mobile/android/app/src/main/AndroidManifest.xml)"
-sha256 = "99477cbb83c0152fbfa90a7b533e6e6fd4d6bfb64193cd74ae5e146a6b550e80"
+sha256 = "784ef3bd9f9e479cb2df22a0aee259a441a9c358390e646639c3a0ed79d41288"
 
 [[asset]]
 path = "mobile/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
@@ -3561,7 +3561,7 @@ licence = "MIT OR Apache-2.0"
 licence_file = "assets/app-icon/LICENSE.txt"
 kind = "icon"
 usage = "Android launcher icon (mobile/android/app/src/main/AndroidManifest.xml)"
-sha256 = "cbc5521c5f0068f1432b8513ac8d8aa7b4d5a26d8b18a8f437ea11fd8364bc8b"
+sha256 = "9b50ac7c27e0c4209ca117475b84b17ca5f5373c6363eb01532b71839540580b"
 
 [[asset]]
 path = "mobile/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
@@ -3572,7 +3572,7 @@ licence = "MIT OR Apache-2.0"
 licence_file = "assets/app-icon/LICENSE.txt"
 kind = "icon"
 usage = "Android round launcher icon (mobile/android/app/src/main/AndroidManifest.xml)"
-sha256 = "cbc5521c5f0068f1432b8513ac8d8aa7b4d5a26d8b18a8f437ea11fd8364bc8b"
+sha256 = "9b50ac7c27e0c4209ca117475b84b17ca5f5373c6363eb01532b71839540580b"
 
 [[asset]]
 path = "mobile/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
@@ -3583,7 +3583,7 @@ licence = "MIT OR Apache-2.0"
 licence_file = "assets/app-icon/LICENSE.txt"
 kind = "icon"
 usage = "Android launcher icon (mobile/android/app/src/main/AndroidManifest.xml)"
-sha256 = "9a1af805a10d0ead2c846696b9365566ac6ebc0171240d0900465b934fc24d22"
+sha256 = "962d5069fce564f4256f9722279db52b072a37a2ff90cca5cbd92b91bd4437ab"
 
 [[asset]]
 path = "mobile/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
@@ -3594,7 +3594,7 @@ licence = "MIT OR Apache-2.0"
 licence_file = "assets/app-icon/LICENSE.txt"
 kind = "icon"
 usage = "Android round launcher icon (mobile/android/app/src/main/AndroidManifest.xml)"
-sha256 = "9a1af805a10d0ead2c846696b9365566ac6ebc0171240d0900465b934fc24d22"
+sha256 = "962d5069fce564f4256f9722279db52b072a37a2ff90cca5cbd92b91bd4437ab"
 
 [[asset]]
 path = "mobile/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
@@ -3605,7 +3605,7 @@ licence = "MIT OR Apache-2.0"
 licence_file = "assets/app-icon/LICENSE.txt"
 kind = "icon"
 usage = "Android launcher icon (mobile/android/app/src/main/AndroidManifest.xml)"
-sha256 = "a8e1351bc4494283cb25cdbe1da3f1f347ced8d8db067baf061e95f34b2b4f81"
+sha256 = "55bad10b960451a06b32039b2c91918e92422c49c4aa9a1ce8b7e9486707737b"
 
 [[asset]]
 path = "mobile/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
@@ -3616,7 +3616,7 @@ licence = "MIT OR Apache-2.0"
 licence_file = "assets/app-icon/LICENSE.txt"
 kind = "icon"
 usage = "Android round launcher icon (mobile/android/app/src/main/AndroidManifest.xml)"
-sha256 = "a8e1351bc4494283cb25cdbe1da3f1f347ced8d8db067baf061e95f34b2b4f81"
+sha256 = "55bad10b960451a06b32039b2c91918e92422c49c4aa9a1ce8b7e9486707737b"
 
 [[asset]]
 path = "mobile/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
@@ -3627,7 +3627,7 @@ licence = "MIT OR Apache-2.0"
 licence_file = "assets/app-icon/LICENSE.txt"
 kind = "icon"
 usage = "Android launcher icon (mobile/android/app/src/main/AndroidManifest.xml)"
-sha256 = "5b8abfbc5a80b41dfca0f678ea181d74f15e96805c920a22510e11a18abf44f2"
+sha256 = "8bb105d0ddd46fc587a8c9f0b81cdb3d9a7455fcc5d3089a96bccb592ed783e6"
 
 [[asset]]
 path = "mobile/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
@@ -3638,7 +3638,7 @@ licence = "MIT OR Apache-2.0"
 licence_file = "assets/app-icon/LICENSE.txt"
 kind = "icon"
 usage = "Android round launcher icon (mobile/android/app/src/main/AndroidManifest.xml)"
-sha256 = "5b8abfbc5a80b41dfca0f678ea181d74f15e96805c920a22510e11a18abf44f2"
+sha256 = "8bb105d0ddd46fc587a8c9f0b81cdb3d9a7455fcc5d3089a96bccb592ed783e6"
 
 [[asset]]
 path = "mobile/fixtures/typical-10p.pdf"
